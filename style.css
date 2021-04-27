@@ -1,0 +1,35 @@
+body {
+
+	background-color: rgb(230, 230,230);
+	color: #575f7d;
+	font-family: Courier;
+	font-size :17px;
+	font-weight: lighter; 	
+}
+h1,h2,h3 {
+	font-family: 'Antonio', sans-serif;
+}
+h1 {
+
+	color: #95c19e;
+	font-family: Helvetica;
+	font width: 100;
+	letter-spacing: 10px;
+	font-size: 60px;
+
+}
+
+h2{
+	color: rgb(100,100,100);
+	font-size: 24px;
+	font-weight: lighter;
+}
+a {
+    text-decoration: none;
+    color: #f15bb5;
+    font-weight: bold;
+  }
+
+  a:hover {
+  	color: black;
+  }
